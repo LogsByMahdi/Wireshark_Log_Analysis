@@ -93,5 +93,3 @@ When finished, shut down the VM properly.
      ```bash
      sudo shutdown -h now
 
-
-
