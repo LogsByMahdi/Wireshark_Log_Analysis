@@ -31,7 +31,7 @@ In this lab, I set up the **CyberOps Workstation VM** and **Security Onion VM** 
 2. Select the correct installation file for your host operating system (Windows, macOS, or Linux).  
 3. Run the installer and accept the default installation settings.  
 
-![VirtualBox installed](./screenshots/VB_Installed.png)
+![VirtualBox installed](./Screenshots/VB_Installed.png)
 
 
 ---
@@ -53,7 +53,7 @@ In this lab, I set up the **CyberOps Workstation VM** and **Security Onion VM** 
 3. Select the downloaded `.ova` file (for example, `cyberops_workstation.ova`).  
 4. Review the default VM settings, then click **Import**.  
 
-![VMs Imported onto VirtualBox](./screenshots/VMs_Imported.png)
+![VMs Imported onto VirtualBox](./Screenshots/VMs_Imported.png)
 
 ---
 
@@ -67,9 +67,9 @@ In this lab, I set up the **CyberOps Workstation VM** and **Security Onion VM** 
    - Username: `analyst`  
    - Password: `cyberops`  
 
-**Screenshot to include:**  
-![CyberOps Workstation Login](./screenshots/COW_Login.png)
-![Successful Login to the VM](./screenshots/Login.png) 
+
+![CyberOps Workstation Login](./Screenshots/COW_Login.png)
+![Successful Login to the VM](./Screenshots/Login.png) 
 
 ---
 
