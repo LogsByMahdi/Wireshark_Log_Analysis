@@ -81,4 +81,17 @@ In this lab, I set up the **CyberOps Workstation VM** and **Security Onion VM** 
 2. Run the following command to view IP address information:  
    ```bash
    ip address
+3. Launch the FireFox browser from within the VM.
+4. Navigate to any website to confirm internet connection (in my case i used https://www.google.com)
+
+---
+
+### Step 4: Shut down the VM
+When finished, shut down the VM properly.
+   - Option A (GUI): From the VirtualBox window, click **Close** and then **Power Off**.
+   - Option B : Open terminal inside the VM
+     ```bash
+     sudo shutdown -h now
+
+
 
