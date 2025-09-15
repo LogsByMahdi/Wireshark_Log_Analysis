@@ -9,9 +9,8 @@
 
 # Background
 
-# When upper-layer protocols communicate, data flows down the OSI layers and is encapsulated into a Layer 2 frame.
-
-# For Ethernet LANs, encapsulation uses the \*\*Ethernet II\*\* frame format.
+When upper-layer protocols communicate, data flows down the OSI layers and is encapsulated into a Layer 2 frame.
+For Ethernet LANs, encapsulation uses the \*\*Ethernet II\*\* frame format.
 
 # In this lab, I analyzed Ethernet II frames using Wireshark to understand:
 
