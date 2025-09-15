@@ -15,10 +15,10 @@
 
 # In this lab, I analyzed Ethernet II frames using Wireshark to understand:
 
-# - Frame fields (destination, source, type, data, FCS)
-# - ARP request/reply traffic
-# - ICMP (ping) traffic between hosts
-# - Differences between local and remote traffic
+- Frame fields (destination, source, type, data, FCS)
+- ARP request/reply traffic
+- ICMP (ping) traffic between hosts
+- Differences between local and remote traffic
 
 # ---
 
